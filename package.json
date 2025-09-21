@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/tsamaya/opencage-api-client-cjs-test#readme",
   "dependencies": {
-    "opencage-api-client": "2.0.0"
+    "opencage-api-client": "2.0.1"
   },
   "devDependencies": {
     "prettier": "^3.6.2"
